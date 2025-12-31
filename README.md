@@ -39,7 +39,6 @@ I like to create dumb stuff for no reason whatsoever and be proud of my work. I 
 <br/><br/>
 
 > *"You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It's their mistake, not my failing."*
->
-> I deleated most of my repos for a new start
 > — Richard P. Feynman
->
+
+I deleated most of my Reops thats why its so empty
