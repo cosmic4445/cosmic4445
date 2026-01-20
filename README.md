@@ -13,7 +13,7 @@ Hi, I'm Cuber. I'm a game developer that creates VR games and custom scripts for
 
 **Currently**
 - Learning HTML, CSS, JS
-- Creating "Super Soldiers" as a Unity game
+- Creating "AprsVR" as a Unity game
 
 <br/><br/>
 
