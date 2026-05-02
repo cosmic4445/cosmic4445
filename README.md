@@ -8,12 +8,8 @@
 <br/><br/>
 
 Hi, I'm Cuber. I'm a game developer that creates VR games and custom scripts for people. I suspect that I have ADHD somehow but I feel like I don't.
-
 <br/><br/>
-
-
 <br/><br/>
-
 I have a very good interest in coding and game development from making website games, to Unity engine development. I like sharing my work with other people and showing people how to make their first game. I keep trying to encourage myself to make YouTube content but I also don't want to go through that process of editing videos.
 
 <br/><br/>
