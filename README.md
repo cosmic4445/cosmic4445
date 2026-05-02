@@ -11,9 +11,6 @@ Hi, I'm Cuber. I'm a game developer that creates VR games and custom scripts for
 
 <br/><br/>
 
-**Currently**
-- Learning HTML, CSS, JS
-- Creating "AprsVR" as a Unity game
 
 <br/><br/>
 
