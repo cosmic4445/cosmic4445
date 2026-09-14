@@ -1,4 +1,4 @@
-**CUBER** 
+![Hey, how did you find me >:(](https://raw.githubusercontent.com/cosmic4445/cosmic4445/refs/heads/main/halftone_1789425265-removebg-preview.png)
 
 Hello, I'm cuber. Your average developer. I mainly use web developing stuff like html, css, and js. The classics.
 
@@ -9,8 +9,6 @@ I dont really create things for like important use, I mainly just explore what I
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![THREE.js](https://img.shields.io/badge/THREE.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 I want to learn more languages, and tools I can use to help expand my tiny little brain. 
