@@ -1,4 +1,4 @@
-![Hey, how did you find me >:(](https://raw.githubusercontent.com/cosmic4445/cosmic4445/refs/heads/main/halftone_1789425265-removebg-preview.png)
+
 
 Hello, I'm cuber. Your average developer. I mainly use web developing stuff like html, css, and js. The classics.
 
@@ -15,3 +15,5 @@ I want to learn more languages, and tools I can use to help expand my tiny littl
 
 > *"You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It's their mistake, not my failing."*
 > — Richard P. Feynman
+
+![Hey, how did you find me >:(](https://raw.githubusercontent.com/cosmic4445/cosmic4445/refs/heads/main/halftone_1789425265-removebg-preview.png)
