@@ -15,9 +15,12 @@
 <p align="center">
    <b>Yo wsg, I'm cuber.</b>
    <b>I do game development, web development, I know about 6 coding languages</b>
-   
 </p>
 <div align="center">
+
+  <p align="center">
+     <b>🧊Pronouns: He/Him/Cube<b>
+     </p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer" width="100%">
 </div>
 
