@@ -19,7 +19,7 @@
 <div align="center">
 
   <p align="center">
-     <b>🧊Pronouns: He/Him/Cube<b>
+     <b>Pronouns: He/Him/Cube🧊<b>
      </p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer" width="100%">
 </div>
