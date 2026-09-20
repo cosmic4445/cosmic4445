@@ -1,19 +1,23 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=hex&section=header&reversal=false&text=Cuber&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%">
+</div>
 
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+</p>
 
-Hello, I'm cuber. Your average developer. I mainly use web developing stuff like html, css, and js. The classics.
+<p align="center">
+   <b>Yo wsg, I'm cuber.</b>
+   <b>I do game development, web development, I know about 6 coding languages</b>
+   
+</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer" width="100%">
+</div>
 
-I dont really create things for like important use, I mainly just explore what I can do, and different websites for animations and stuff (like uiverse) 
-
-**Other tools**
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-I want to learn more languages, and tools I can use to help expand my tiny little brain. 
-
-> *"You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It's their mistake, not my failing."*
-> — Richard P. Feynman
-
-![Hey, how did you find me >:(](https://raw.githubusercontent.com/cosmic4445/cosmic4445/refs/heads/main/halftone_1789425265-removebg-preview.png)
